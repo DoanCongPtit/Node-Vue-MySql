@@ -10,3 +10,6 @@ user_age DOUBLE
 BE & FE: yarn install <br/>
 BE: yarn start <br/>
 FE: yarn serve 
+
+# Transform JSON 2
+node transformJS2.js
